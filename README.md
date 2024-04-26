@@ -1,0 +1,1 @@
+ A summary of project portfolio in which only displays sample skills. By implementing the same software for a different job role from a different work system, I can be able to explore data structure for design corresponding data layout, as well as write SQL statement and Python script to fetch dataset to visualization.   
