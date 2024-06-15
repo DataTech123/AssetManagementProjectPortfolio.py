@@ -1,1 +1,3 @@
 This project portfolio displays only one example of a Python script. It still can utilize other Python libraries such as NumPy, Matplotlib, and Seaborn for data analysis and visualization to gain insights into the vendor supply (asset) system. The project connects internal supply transaction record systems or external files to SQL Server Management Studio (SSMS), which are then queried using Visual Studio Code (VS Code) to explore multi-dimensional systems. The Python script also validates data to identify gaps or invalid entries and reports these issues to stakeholders.
+
+I thank you for your review and welcome your questions about project content. 
